@@ -31,7 +31,7 @@ body {
   max-width: 1440px;
   margin: 0 auto;
   font-family: "Satoshi", sans-serif;
-  background-color: #1d1e19;
+  /* background-color: #1d1e19; */
 }
 
 /* CUSTOM CLASSES */
@@ -267,8 +267,6 @@ body {
 /* ABOUT US SECTION END */
 
 /* PROPERTY LSTING SECTION SRART */
-.property-listing {
-}
 .property-listing .container {
   margin: 5rem 0;
 }
@@ -427,9 +425,6 @@ body {
 /* PROPERTY LSTING SECTION END */
 
 /* FAQ SECTION START */
-
-.faq-section {
-}
 
 .faq-section .faq-content {
   display: flex;
@@ -1109,10 +1104,6 @@ body {
     justify-content: space-between;
     margin-bottom: 1.2rem;
   }
-
-  .about-us .contents .right-block {
-  }
-
   .about-us .section-heading {
     line-height: 3rem;
     width: 75%;
